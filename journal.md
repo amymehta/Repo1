@@ -7,8 +7,8 @@
 #### Tasks Accomplished
 
 - Watched the tech talk video
-- 
-- [Task 3]
+- Craeted a status entry
+- Installed git on computer and tried working with it
 
 #### Things I Learned
 
@@ -20,7 +20,6 @@
 
 - Markdown files are flexible and compatabile which could make them easier to work with
 - I wonder how git can improve group work coordination
-
 ---
 
 ## Day 2
@@ -31,43 +30,18 @@
 
 - Worked on creating a repository
 - Watched some more of the tech talk video
-- Learned how to use chat gpt to learn more
+- Learned how to use chat gpt to get more information
 
 #### Things I Learned
 
 - How to create git repo
-- What the cd command is
+- What the cd command is and when it's used
+- Git repository saves/tracks the history of all changes made to files in a git project
 
 #### Thoughts/Questions/Ideas
 
-- [Thought 1]
-- [Question 1]
-- [Idea 1]
-
----
-
-## Day [Day Number]
-
-### Date: [Date]
-
-#### Tasks Accomplished
-
-- [Task 1]
-- [Task 2]
-- [Task 3]
-
-#### Things I Learned
-
-- [Lesson 1]
-- [Lesson 2]
-- [Lesson 3]
-
-#### Thoughts/Questions/Ideas
-
-- [Thought 1]
-- [Question 1]
-- [Idea 1]
-
+- What language is used in git?
+- What benefits come with using git?
 ---
 
 [Continue adding sections for each day of your internship]
