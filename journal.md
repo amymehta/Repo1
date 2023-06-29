@@ -7,19 +7,19 @@
 #### Tasks Accomplished
 
 - Watched the tech talk video
-- Craeted a status entry
-- Installed git on computer and tried working with it
+- Created a status entry
+- Installed git on the computer and tried working with it
 
 #### Things I Learned
 
 - What markdown files are
 - How to navigate with git
-- How commiting changes works
+- How committing changes works
 
 #### Thoughts/Questions/Ideas
 
-- Markdown files are flexible and compatabile which could make them easier to work with
-- I wonder how git can improve group work coordination
+- Markdown files are flexible and compatible which could make them easier to work with
+- I wonder how it can improve group work coordination
 ---
 
 ## Day 2
@@ -81,12 +81,17 @@
 
 -
 ---
+##Day 5
 
-ineering course on deep learning ai
+### Date: 6/12/2023
+
+#### Tasks Accomplished
+
+Completed prompt engineering course on deep learning ai
 
 #### Things I Learned
 
-- I got to know what instruction tuned LLM is
+- I got to know what instruction-tuned LLM is
 - The two main principles of prompting
 
 #### Thoughts/Questions/Ideas
@@ -101,7 +106,7 @@ ineering course on deep learning ai
 #### Tasks Accomplished
 
 - Continued the prompt engineering course and took notes on the videos
-- Completed the summarizing, inffering, and transforming sections of the course
+- Completed the summarizing, inferring, and transforming sections of the course
 
 #### Things I Learned
 
@@ -128,7 +133,156 @@ ineering course on deep learning ai
 
 #### Thoughts/Questions/Ideas
 
-- Companies can use a chatbot to help customers recieve quick assistence.
+- Companies can use a chatbot to help customers receive quick assistance.
 ---
 
+## Day 8
+
+### Date: 6/15/2023
+
+#### Tasks Accomplished
+
+-Started the langchain training on deep learning ai
+-Completed the first 3 sections of the course 
+
+#### Things I Learned
+
+- How chatbots are able to remember parts of a previous conversation in order to have a better-flowing conversation
+
+#### Thoughts/Questions/Ideas
+
+- Having chatbots that can remember previous parts of a conversation will help improve user interactions
+---
+## Day 9
+
+### Date: 6/16/2023
+
+#### Tasks Accomplished
+
+- Completed the 4th and 5th sections of the course
+- Played around with the digital notebooks
+
+#### Things I Learned
+
+- Chain combines an LLM with a prompt
+- Map_reduce method can be used for summarizing a text
+
+#### Thoughts/Questions/Ideas
+
+- Can you connect more than one LLM to a prompt?
+---
+## Day 10
+
+### Date: 6/19/2023
+
+#### Tasks Accomplished
+
+- Completed the last three sections of the training
+- Started taking some notes in my notebook about things I learned 
+
+#### Things I Learned
+
+- Methods that can be used to track tokens being used in your chains/calls
+
+#### Thoughts/Questions/Ideas
+
+- What tools are the best to evaluate LLM applications?
+---
+## Day 11
+
+### Date: 6/20/2023
+
+#### Tasks Accomplished
+
+- Finished writing notes in my notebook
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- Langchains's agent framework helps LLMs use new information you give it
+
+#### Thoughts/Questions/Ideas
+
+- How many different types of agents are in Langchain?
+---
+## Day 12
+
+### Date: 6/21/2023
+
+#### Tasks Accomplished
+
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- 
+
+#### Thoughts/Questions/Ideas
+
+
+---
+## Day 13
+
+### Date: 6/22/2023
+
+#### Tasks Accomplished
+
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- 
+
+#### Thoughts/Questions/Ideas
+
+
+---
+
+## Day 14
+
+### Date: 6/26/2023
+
+#### Tasks Accomplished
+
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- How to utilize the chat to have conversations
+
+#### Thoughts/Questions/Ideas
+
+
+---
+## Day 16
+
+### Date: 6/27/2023
+
+#### Tasks Accomplished
+
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- 
+
+#### Thoughts/Questions/Ideas
+
+
+---
+## Day 17
+
+### Date: 6/28/2023
+
+#### Tasks Accomplished
+
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- Got to know more about different methods and their uses 
+
+#### Thoughts/Questions/Ideas
+
+---
 
