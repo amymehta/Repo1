@@ -215,27 +215,11 @@ Completed prompt engineering course on deep learning ai
 
 #### Things I Learned
 
-- 
+- Simple sequential chains work best with a single input and output
 
 #### Thoughts/Questions/Ideas
 
-
----
-## Day 13
-
-### Date: 6/22/2023
-
-#### Tasks Accomplished
-
-- Tried getting more familiar with Langchain
-
-#### Things I Learned
-
-- 
-
-#### Thoughts/Questions/Ideas
-
-
+- What works best with multiple inputs or outputs?
 ---
 
 ## Day 14
@@ -248,7 +232,7 @@ Completed prompt engineering course on deep learning ai
 
 #### Things I Learned
 
-- How to utilize the chat to have conversations
+- 
 
 #### Thoughts/Questions/Ideas
 
