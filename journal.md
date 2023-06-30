@@ -269,4 +269,35 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 
 ---
+## Day 18
 
+### Date: 6/29/2023
+
+#### Tasks Accomplished
+
+- Tried getting more familiar with Langchain
+
+#### Things I Learned
+
+- Got to know more about different methods and their uses 
+
+#### Thoughts/Questions/Ideas
+-Including FAQs can help with efficiency and user experience 
+- When users are interacting with chatbots having FAQs can help them find answers quickly and reduce the number of lengthy conversations with the bot
+- FAQs have answers to many common concerns or questions users may have. Having an FAQ section can help users scroll through to find solutions themselves without needing much assistance from the bot since it is very likely what they're looking for is going to be in the FAQ.
+- Also..by analyzing user interactions, new frequently asked questions can be identified, making it more effective and efficient
+---
+## Day 19
+
+### Date: 6/30/2023
+
+#### Tasks Accomplished
+
+
+#### Things I Learned
+
+
+
+#### Thoughts/Questions/Ideas
+
+---
