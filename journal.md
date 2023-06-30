@@ -286,7 +286,7 @@ Completed prompt engineering course on deep learning ai
 - When users are interacting with chatbots having FAQs can help them find answers quickly and reduce the number of lengthy conversations with the bot
 - FAQs have answers to many common concerns or questions users may have. Having an FAQ section can help users scroll through to find solutions themselves without needing much assistance from the bot since it is very likely what they're looking for is going to be in the FAQ.
 - Also..by analyzing user interactions, new frequently asked questions can be identified, making it more effective and efficient
-- Besides just having normal conversations I think that it is very important that chatbots recognize when human assistance is needed. Sometimes some concerns could have a solution that may not be provided by a chatbot..being able to recognize that and recommend human help for further assistance could be very useful
+- Besides just having normal conversations I think that it is very important that chatbots recognize when human assistance is needed. Sometimes some concerns could have a solution that may not be provided by a chatbot..being able to recognize that and recommend human help for further assistance could be very useful in my opinion
 ---
 ## Day 19
 
