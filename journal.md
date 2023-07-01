@@ -293,12 +293,12 @@ Completed prompt engineering course on deep learning ai
 ### Date: 6/30/2023
 
 #### Tasks Accomplished
-
+- Looked over the format of some websites online
 
 #### Things I Learned
 
 
 
 #### Thoughts/Questions/Ideas
-
+- Having an organized website can include elements like consistent design, using visual cues such as icons, arrows, or bullet points to guide users and highlight important information, and proper spacing between elements, paragraphs, and sections helps users focus on individual pieces of information and avoids visual clutter. 
 ---
