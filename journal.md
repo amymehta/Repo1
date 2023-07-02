@@ -312,5 +312,5 @@ Completed prompt engineering course on deep learning ai
 
 
 #### Thoughts/Questions/Ideas
-- Instead of having lots of information..bullets with key information can help get the point across in a more visually appealing manner
+- Instead of having lots of information in a paragraph format..bullets with key information can help get the point across in a more visually appealing manner
 ---
