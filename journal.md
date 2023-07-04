@@ -329,3 +329,16 @@ Completed prompt engineering course on deep learning ai
 
 - If a chatbot does more than just talk to the user.. customer satisfaction will be better. For example, if a chatbot receives input on preferences from a user..the chatbot can suggest a product based on those preferences. This will provide the user with a product that they will be satisfied with since it most likely matches their choice.
 ---
+## Day 22
+
+### Date: 7/3/2023
+
+#### Tasks Accomplished
+- Looked over the format and organization of some websites online 
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- If a chatbot does more than just talk to the user.. customer satisfaction will be better. For example, if a chatbot receives input on preferences from a user..the chatbot can suggest a product based on those preferences. This will provide the user with a product that they will be satisfied with since it most likely matches their choice.
+---
