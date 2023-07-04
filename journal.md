@@ -327,7 +327,6 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - My answer to the question 'Why should a retail website use a chatbot on their website' has changed a little bit. At first, I mainly thought about the quick access to assistance..I didn't think much about the idea of chatbots analyzing conversations to help with certain suggestions. If retail companies use a chatbot that analyzes conversations and gives responses accordingly it will be more efficient overall for the user because the answers they will get will be more accurate.
 
-- If a chatbot does more than just talk to the user.. customer satisfaction will be better. For example, if a chatbot receives input on preferences from a user..the chatbot can suggest a product based on those preferences. This will provide the user with a product that they will be satisfied with since it most likely matches their choice.
 ---
 ## Day 22
 
