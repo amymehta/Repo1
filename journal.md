@@ -341,3 +341,29 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - If a chatbot does more than just talk to the user.. customer satisfaction will be better. For example, if a chatbot receives input on preferences from a user..the chatbot can suggest a product based on those preferences. This will provide the user with a product that they will be satisfied with since it most likely matches their choice.
 ---
+## Day 23
+
+### Date: 7/5/2023
+
+#### Tasks Accomplished
+- Looked over the format and organization of some websites online 
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- If a user asks something that is similar to something on the FAQ the chatbot can generate a response using examples or patterns based on the FAQ. This will help with consistent and accurate replies.
+---
+## Day 24
+
+### Date: 7/6/2023
+
+#### Tasks Accomplished
+- Looked over the format and organization of some websites online 
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- I would say my answer to the question 'Why should a retail website use a chatbot on their website' has changed a little bit. When I first thought about it a few weeks ago, I mainly focused on the quick accessibility to help aspect of it. I didn't think a whole lot about how chatbots can be further used to make suggestions based on user preferences and help the user find something that fits in their criteria. 
+---
