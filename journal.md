@@ -367,3 +367,42 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - I would say my answer to the question 'Why should a retail website use a chatbot on their website' has changed a little bit. When I first thought about it a few weeks ago, I mainly focused on the quick accessibility to help aspect of it. I didn't think a whole lot about how chatbots can be further used to make suggestions based on user preferences and help the user find something that fits in their criteria. 
 ---
+## Day 25
+
+### Date: 7/17/2023
+
+#### Tasks Accomplished
+- Looked over the format and organization of some websites online 
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- A quality that can be important within a chatbot is advanced conversational abilities. It would be helpful if they could proactively seek information and ask clarifying questions when needed.
+  
+---## Day 26
+
+### Date: 7/18/2023
+
+#### Tasks Accomplished
+- Looked over the format and organization of some websites online 
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- If customers are confronted with large blocks of text they may get overwhelmed and lose interest in the conversation. Cutting out unnecessary words and using bullet points instead of lengthy answers can help keep a simple dialogue and give better customer support.
+  
+---## Day 27
+
+### Date: 7/19/2023
+
+#### Tasks Accomplished
+- Looked over the format and organization of some websites online 
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- A chatbot's script should be able to handle any misunderstandings. In the case of any misunderstandings, it should suggest FAQs or even prepare some sort of error message so customers can get back to the conversation without having to start over.
+---
