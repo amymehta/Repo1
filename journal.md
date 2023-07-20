@@ -380,7 +380,8 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - A quality that can be important within a chatbot is advanced conversational abilities. It would be helpful if they could proactively seek information and ask clarifying questions when needed.
   
----## Day 26
+---
+## Day 26
 
 ### Date: 7/18/2023
 
@@ -393,7 +394,8 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - If customers are confronted with large blocks of text they may get overwhelmed and lose interest in the conversation. Cutting out unnecessary words and using bullet points instead of lengthy answers can help keep a simple dialogue and give better customer support.
   
----## Day 27
+---
+## Day 27
 
 ### Date: 7/19/2023
 
