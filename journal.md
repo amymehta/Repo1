@@ -408,3 +408,43 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - A chatbot's script should be able to handle any misunderstandings. In the case of any misunderstandings, it should suggest FAQs or even prepare some sort of error message so customers can get back to the conversation without having to start over.
 ---
+## Day 28
+
+### Date: 7/22/2023
+
+#### Tasks Accomplished
+- Tested chatbot responses
+
+#### Things I Learned
+
+
+#### Thoughts/Questions/Ideas
+- Having shorter responses that cover the question asked can make the user experience better for customers.
+  
+---## Day 28
+
+### Date: 7/19/2023
+
+#### Tasks Accomplished
+- Looked over figma and got an understanding of what it is
+
+#### Things I Learned
+- Figma is a useful platform for collaborative interface design.
+
+#### Thoughts/Questions/Ideas
+- 
+  
+---## Day 29
+
+### Date: 7/24/2023
+
+#### Tasks Accomplished
+- Worked on python coding assignment
+- Designed some logos 
+
+#### Things I Learned
+- How to use for loops correctly/effectively
+
+#### Thoughts/Questions/Ideas
+- Chatbots may need to refer to some videos on websites..therefore, they should be able to extract information from them.
+---
