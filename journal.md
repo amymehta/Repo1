@@ -422,7 +422,7 @@ Completed prompt engineering course on deep learning ai
 - Having shorter responses that cover the question asked can make the user experience better for customers.
   
 ---
-## Day 28
+## Day 29
 
 ### Date: 7/19/2023
 
@@ -436,7 +436,7 @@ Completed prompt engineering course on deep learning ai
 - 
   
 ---
-## Day 29
+## Day 30
 
 ### Date: 7/24/2023
 
