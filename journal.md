@@ -450,3 +450,18 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - Chatbots may need to refer to some videos on websites..therefore, they should be able to extract information from them.
 ---
+## Day 31
+
+### Date: 7/25/2023
+
+#### Tasks Accomplished
+- Worked on python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- Chatbots should be able to provide information based on specific timestamps in a video.
+---
+
