@@ -57,11 +57,11 @@
 #### Things I Learned
 
 - How to create git repo
-- How to use chat gpt efficientlty
+- How to use chat gpt efficiently efficiently
 
 #### Thoughts/Questions/Ideas
 
-- Different ways of wrtiting your question on chat gpt can provide better and more specific outputs.
+- Different ways of writing your question on chat gpt can provide better and more specific outputs.
 ---
 
 ## Day 4
@@ -448,7 +448,7 @@ Completed prompt engineering course on deep learning ai
 - How to use for loops correctly/effectively
 
 #### Thoughts/Questions/Ideas
-- Chatbots may need to refer to some videos on websites..therefore, they should be able to extract information from them.
+- Chatbots may need to refer to some videos on websites..therefore, they should be able to extract information from them. 
 ---
 ## Day 31
 
@@ -464,4 +464,31 @@ Completed prompt engineering course on deep learning ai
 #### Thoughts/Questions/Ideas
 - Chatbots should be able to provide information based on specific timestamps in a video.
 ---
+## Day 32
 
+### Date: 7/26/2023
+
+#### Tasks Accomplished
+- Worked on python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 33
+
+### Date: 7/26/2023
+
+#### Tasks Accomplished
+- Worked on python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
