@@ -441,7 +441,7 @@ Completed prompt engineering course on deep learning ai
 ### Date: 7/24/2023
 
 #### Tasks Accomplished
-- Worked on python coding assignment
+- Worked on Python coding assignment
 - Designed some logos 
 
 #### Things I Learned
@@ -455,7 +455,7 @@ Completed prompt engineering course on deep learning ai
 ### Date: 7/25/2023
 
 #### Tasks Accomplished
-- Worked on python coding assignment
+- Worked on Python coding assignment
 
 #### Things I Learned
 - Got more familiar with how collab works
@@ -469,21 +469,90 @@ Completed prompt engineering course on deep learning ai
 ### Date: 7/26/2023
 
 #### Tasks Accomplished
-- Worked on python coding assignment
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+  
+#### Thoughts/Questions/Ideas
+- Chatbots that engage in long conversations with users might want to provide a summary of the conversation at regular intervals.. or when specific events occur
+---
+## Day 33
+
+### Date: 7/27/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- How to define a function
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 34
+
+### Date: 7/28/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- The purpose of parameters
+
+#### Thoughts/Questions/Ideas
+- The chatbot should respond promptly and avoid unnecessary delays, making interactions efficient
+---
+## Day 35
+
+### Date: 7/29/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- How/when to use if-else statements
+
+
+#### Thoughts/Questions/Ideas
+- A well-designed chatbot should be able to function across various platforms and devices, such as web browsers, mobile apps, and messaging applications
+---
+## Day 36
+
+### Date: 7/30/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
 
 #### Things I Learned
 - Got more familiar with how collab works
 - 
 
 #### Thoughts/Questions/Ideas
-- 
+- The chatbot should ask clarifying questions when faced with misunderstandings
 ---
-## Day 33
+## Day 37
 
-### Date: 7/26/2023
+### Date: 7/31/2023
 
 #### Tasks Accomplished
-- Worked on python coding assignment
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- Incorporating a friendly and empathetic tone can make the chatbot more relatable and engaging for users
+---
+## Day 38
+
+### Date: 8/1/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
 
 #### Things I Learned
 - Got more familiar with how collab works
