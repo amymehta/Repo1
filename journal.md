@@ -458,7 +458,7 @@ Completed prompt engineering course on deep learning ai
 - Worked on Python coding assignment
 
 #### Things I Learned
-- Got more familiar with how collab works
+- Got more familiar with how colab works
 - 
 
 #### Thoughts/Questions/Ideas
@@ -472,7 +472,7 @@ Completed prompt engineering course on deep learning ai
 - Worked on Python coding assignment
 
 #### Things I Learned
-- Got more familiar with how collab works
+- Got more familiar with how colab works
   
 #### Thoughts/Questions/Ideas
 - Chatbots that engage in long conversations with users might want to provide a summary of the conversation at regular intervals.. or when specific events occur
@@ -498,7 +498,7 @@ Completed prompt engineering course on deep learning ai
 - Worked on Python coding assignment
 
 #### Things I Learned
-- Got more familiar with how collab works
+- Got more familiar with how colab works
 - The purpose of parameters
 
 #### Thoughts/Questions/Ideas
@@ -512,7 +512,7 @@ Completed prompt engineering course on deep learning ai
 - Worked on Python coding assignment
 
 #### Things I Learned
-- Got more familiar with how collab works
+- Got more familiar with how colab works
 - How/when to use if-else statements
 
 
@@ -527,7 +527,7 @@ Completed prompt engineering course on deep learning ai
 - Worked on Python coding assignment
 
 #### Things I Learned
-- Got more familiar with how collab works
+- Got more familiar with how colab works
 - 
 
 #### Thoughts/Questions/Ideas
@@ -541,7 +541,7 @@ Completed prompt engineering course on deep learning ai
 - Worked on Python coding assignment
 
 #### Things I Learned
-- Got more familiar with how collab works
+- Got more familiar with how colab works
 - 
 
 #### Thoughts/Questions/Ideas
@@ -552,10 +552,177 @@ Completed prompt engineering course on deep learning ai
 ### Date: 8/1/2023
 
 #### Tasks Accomplished
+- Started working on assignment 2
+
+#### Things I Learned
+- Got more familiar with how colab works
+- How to create a vector store
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 39
+
+### Date: 8/2/2023
+
+#### Tasks Accomplished
+- Worked on assignment 2
+
+#### Things I Learned
+- Got more familiar with how colab works
+- How to import and use files on colab
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 40
+
+### Date: 8/3/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- How to open files and read them on colab
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 41
+
+### Date: 8/4/2023
+
+#### Tasks Accomplished
 - Worked on Python coding assignment
 
 #### Things I Learned
 - Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 42
+
+### Date: 8/5/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 43
+
+### Date: 8/6/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 44
+
+### Date: 8/7/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- Got more familiar with how collab works
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 45
+
+### Date: 8/8/2023
+
+#### Tasks Accomplished
+- Started assignment 3
+
+#### Things I Learned
+- 
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 46
+
+### Date: 8/9/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- 
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 47
+
+### Date: 8/10/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- 
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 48
+
+### Date: 8/11/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- 
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 49
+
+### Date: 8/12/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- 
+- 
+
+#### Thoughts/Questions/Ideas
+- 
+---
+## Day 50
+
+### Date: 8/13/2023
+
+#### Tasks Accomplished
+- Worked on Python coding assignment
+
+#### Things I Learned
+- 
 - 
 
 #### Thoughts/Questions/Ideas
